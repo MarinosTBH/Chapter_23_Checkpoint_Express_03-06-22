@@ -1,5 +1,5 @@
 # Checkpoint_Express_ 
-EJS / 
+view-engine : EJS(3 views) / Middleware (restriction reversed)/  ...
 
 -Objective
 
